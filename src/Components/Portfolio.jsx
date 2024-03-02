@@ -31,28 +31,19 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Community manager, She Code Africa, Enugu",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaborated with the core team to efficiently manage resources and propose creative ideas for growth whose implementation led to 85% success rate",
   },
   {
-    title: "Web Development for Beginners",
+    title: "User Experience Research mentor, Friends of Figma, Africa",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Had one-on-one sessions with 17 willing mentees discussing how to help them ease into the field and every challenge they faced",
   },
   {
-    title: "My Resume Site",
+    title: "Design Lead, Google Developer Student Club",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Conducted design workshops and shared valuable information and links to which about 65% of the community benefitted from",
   },
 ];
 
