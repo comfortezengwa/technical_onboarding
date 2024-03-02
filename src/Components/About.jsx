@@ -34,6 +34,7 @@ const skillsList = [
   "UI/UX design",
   "Community management",
   "Leadership",
+  "Team work",
 ];
 
 /**
