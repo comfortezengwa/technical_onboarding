@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Passionate about bridging the gap on healthcare and modern technology.";
+  "Passionate about bridging the gap in healthcare and modern technology.";
 
 const About = () => {
   return (
